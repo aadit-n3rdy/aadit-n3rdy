@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aadithyaa</h1>
 <h3 align="center">A fan of embedded systems, networking and all things low level.</h3>
 
-- 🔭 I’m currently working on [chips](https://github.com/aadit-n3rdy/chips)
+- 🔭 I’m currently working on [an mpu6050 library](https://github.com/aadit-n3rdy/mpu6050)
 
 - 🌱 I’m currently learning **statistics, networking and cybersecurity**
 

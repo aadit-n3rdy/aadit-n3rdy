@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [an mpu6050 library](https://github.com/aadit-n3rdy/mpu6050)
 
-- 🌱 I’m currently learning **statistics, networking and cybersecurity**
+- 🌱 I’m currently learning **quantum computing, networking and embedded systems**
 
-- 👨‍💻 All of my projects are available on [my GitHub page](my GitHub page)
+- 👨‍💻 All of my projects are available on [my GitHub repositories page](https://github.com/aadit-n3rdy?tab=repositories)
 
-- 💬 Ask me about **embedded systems, C programming, or any of my projects.**
+- 💬 Ask me about **embedded systems, C programming, quantum computing or any of my projects.**
 
 - 📫 How to reach me **eaadithyaa@gmail.com**
 
